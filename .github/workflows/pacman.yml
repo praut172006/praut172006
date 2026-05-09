@@ -12,7 +12,6 @@ jobs:
 build:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: generate pacman graph
     uses: Platane/snk/svg-only@v3
